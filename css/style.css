@@ -1,4 +1,11 @@
-.row{
+[class^="col"] {
     max-height: 200px;
-    image;
+    border: 1px solid black;
+}
+.img-fluid {
+    max-height: 100%;
+}
+body
+{
+    background-color: rgb(204, 208, 211);
 }
